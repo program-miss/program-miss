@@ -28,7 +28,7 @@
 
 <div align="center">
   <h3> &#129309; Connect with Me </h3> 
-  <a href="mailto:alinka.12.12.98@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:alinka.12.12.98@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://t.me/alinka1298">
   <img alt="Alina's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
   </a>
