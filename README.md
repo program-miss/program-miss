@@ -25,12 +25,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   
 
-  <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3> 
-   <div align="center">
+  <h3 align="center"> &#129309;Connect with Me </h3> 
   <a href="mailto:alinka.12.12.98@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-    </div>
-    <div align="center">
   <a href="https://t.me/alinka1298">
   <img align="left" alt="Dave's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
-</a>
-  </div>
+  </a>
