@@ -12,7 +12,7 @@
 - 📄 I'm open to feedback and suggestions!
 
 <div align="center">
-<h2 align="center"> 🛠️ My Skills </h2>
+<h2> 🛠️ My Skills </h2>
 
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)
   ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white)
@@ -27,7 +27,7 @@
   </div>
 
 <div align="center">
-  <h3 align="center"> &#129309; Connect with Me </h3> 
+  <h3> &#129309; Connect with Me </h3> 
   <a href="mailto:alinka.12.12.98@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://t.me/alinka1298">
   <img alt="Alina's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
