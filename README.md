@@ -26,8 +26,10 @@
   
 
   <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3> 
-  <div align="center">
+   <div align="center">
   <a href="mailto:alinka.12.12.98@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+    </div>
+    <div align="center">
   <a href="https://t.me/alinka1298">
   <img align="left" alt="Dave's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
 </a>
