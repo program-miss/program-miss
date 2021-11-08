@@ -13,7 +13,7 @@
 
 
 <h2 align="center"> 🛠️ My Skills </h2>
-<div align="center">
+
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)
   ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white)
@@ -23,11 +23,12 @@
   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  </div>
   
 
   <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3> 
-  <a align="center" href="mailto:alinka.12.12.98@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-  <a align="center" href="https://t.me/alinka1298">
+  <div align="center">
+  <a href="mailto:alinka.12.12.98@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  <a href="https://t.me/alinka1298">
   <img align="left" alt="Dave's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
 </a>
+  </div>
