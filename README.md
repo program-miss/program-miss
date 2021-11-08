@@ -11,7 +11,7 @@
 - 💜 Interests: philosophy, travel, food, sweets
 - 📄 I'm open to feedback and suggestions!
 
-
+<div align="center">
 <h2 align="center"> 🛠️ My Skills </h2>
 
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)
@@ -24,6 +24,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   
+  </div>
 
 <div align="center">
   <h3 align="center"> &#129309; Connect with Me </h3> 
