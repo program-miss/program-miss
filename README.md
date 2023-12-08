@@ -1,18 +1,16 @@
-<h1 align="center">Hi , I'm Alina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Привет, меня зовут Алина <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=500&height=50"></a>
 </p>
 
-- 💡 I like to explore new technologies and develop software solutions.
-- 🌱 I’m currently learning JavaScript, React, Redux, HTML5 and CSS3
-- 👯 I’m looking to collaborate on front-end and back-end projects
-- 💬 You can shoot me an email at alinka.12.12.98@gmail.com! I'll try to respond as soon as I can.
-- 😄 Pronouns: She/Her/Hers
-- 💜 Interests: philosophy, travel, food, sweets
-- 📄 I'm open to feedback and suggestions!
+- 💡 Мне нравится изучать новые технологии и разрабатывать программные решения.
+- 👯 Я ищу возможность сотрудничества над фронтенд- и бэкенд-проектами.
+- 💬 Вы можете написать мне письмо на alinka.12.12.98@gmail.com! Я постараюсь ответить как можно скорее.
+- 💜 Интересы: философия, путешествия, сладости, медитации, аффирмации, фитнес, нейрографика
+- 📄 Я открыта для отзывов и предложений!
 
 <div align="center">
-<h2> 🛠️ My Skills </h2>
+<h2> 🛠️ Мои навыки </h2>
 
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)
   ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white)
@@ -27,7 +25,7 @@
   </div>
 
 <div align="center">
-  <h3> &#129309; Connect with Me </h3> 
+  <h3> &#129309; Свяжитесь со мной </h3> 
   <a href="mailto:alinka.12.12.98@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://t.me/alinka1298">
   <img alt="Alina's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
