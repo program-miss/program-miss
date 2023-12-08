@@ -12,15 +12,15 @@
 <div align="center">
 <h2> 🛠️ Мои навыки </h2>
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=white)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)&nbsp;
-  ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white)&nbsp;
-  ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=white)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
+  ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
+  ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-  ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=white)&nbsp;
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=white)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
   
