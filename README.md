@@ -24,10 +24,12 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
   
-  </div>
+</div>
 
+<div align="center">
 <h2> 🏆 Codewars Profile </h2>
-[![Codewars](https://www.codewars.com/users/program-miss/badges/large)](https://www.codewars.com/users/program-miss)
+![Codewars](https://www.codewars.com/users/program-miss/badges/large)
+</div>
 
 
 <div align="center">
