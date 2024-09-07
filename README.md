@@ -26,6 +26,10 @@
   
   </div>
 
+<h2> 🏆 Codewars Profile </h2>
+[![Codewars](https://www.codewars.com/users/program-miss/badges/large)](https://www.codewars.com/users/program-miss)
+
+
 <div align="center">
   <h3> &#129309; Contact me </h3> 
   <a href="mailto:program1miss@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
