@@ -28,7 +28,10 @@
 
 <div align="center">
 <h2> 🏆 Codewars Profile </h2>
-![Codewars](https://www.codewars.com/users/program-miss/badges/large)
+
+<a href="https://www.codewars.com/users/program-miss">
+  <img src="https://www.codewars.com/users/program-miss/badges/large" alt="Codewars Badge"/>
+</a>
 </div>
 
 
